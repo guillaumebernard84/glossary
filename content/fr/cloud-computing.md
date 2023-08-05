@@ -16,3 +16,4 @@ Les entreprises avaient traditionnellement deux solutions lorsqu'elles voulaient
 ## Quel en est l'utilité
 
 Les fournisseurs de cloud permettent aux entreprises de louer des ressources informatiques à la demande et de payer à l'utilisation, offrant deux avantages majeurs. Premièrement, les entreprises peuvent se concentrer sur leur produit ou service sans avoir à attendre, planifier et dépenser des ressources pour une nouvelle infrastructure physique. Et deuxièmement, elles peuvent simplement se [mettre à l’échelle] (/scalability/) souhaitée à la demande, en fonctions de leurs besoins. Le cloud computing permet aux entreprises d'adopter autant ou aussi peu d'infrastructure qu'elles le souhaitent.
+ 
